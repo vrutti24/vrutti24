@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Javascript , AngularJS , MongoDB**
 
-- 💬 Ask me about **HTML,CSS,C,C++,DSA**
+- 💬 Ask me about **HTML,CSS,JS,C,C++,DSA**
 
 - 📫 How to reach me **vrutipatel24102002@gmail.com**
-
-- ⚡ Fun fact **I think I'm smart learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
