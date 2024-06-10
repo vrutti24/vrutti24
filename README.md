@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Vrutti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align =“right” alt=“coding” width= “400” src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrutti24&label=Profile%20views&color=0e75b6&style=flat" alt="vrutti24" /> </p>
-
-<p align="left"> <a href="https://twitter.com/p92124485" target="blank"><img src="https://img.shields.io/twitter/follow/p92124485?logo=twitter&style=for-the-badge" alt="p92124485" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrutti24&label=Profile%20views&color=0e75b6&style=flat" alt="vrutti24" /> </
 
 - 🌱 I’m currently learning **Javascript , AngularJS , MongoDB**
 
